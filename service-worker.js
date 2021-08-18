@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FAST-N-FEAST-APP/precache-manifest.d8051704444a6105a50851071e7ea345.js"
+  "/FAST-N-FEAST-APP/precache-manifest.26d08346b0d0222aaae3e4a5ca9604c5.js"
 );
 
 self.addEventListener('message', (event) => {
