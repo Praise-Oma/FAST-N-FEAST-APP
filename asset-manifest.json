@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FAST-N-FEAST-APP.git/static/css/main.1db0c5d3.chunk.css",
+    "main.js": "/FAST-N-FEAST-APP.git/static/js/main.3676f609.chunk.js",
+    "main.js.map": "/FAST-N-FEAST-APP.git/static/js/main.3676f609.chunk.js.map",
+    "runtime-main.js": "/FAST-N-FEAST-APP.git/static/js/runtime-main.5837df44.js",
+    "runtime-main.js.map": "/FAST-N-FEAST-APP.git/static/js/runtime-main.5837df44.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/FAST-N-FEAST-APP.git/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.3e6516bf.chunk.js": "/FAST-N-FEAST-APP.git/static/js/2.3e6516bf.chunk.js",
+    "static/js/2.3e6516bf.chunk.js.map": "/FAST-N-FEAST-APP.git/static/js/2.3e6516bf.chunk.js.map",
+    "index.html": "/FAST-N-FEAST-APP.git/index.html",
+    "precache-manifest.039abcbf5cee29dfcc8a9e84986ffe6a.js": "/FAST-N-FEAST-APP.git/precache-manifest.039abcbf5cee29dfcc8a9e84986ffe6a.js",
+    "service-worker.js": "/FAST-N-FEAST-APP.git/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/FAST-N-FEAST-APP.git/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.1db0c5d3.chunk.css.map": "/FAST-N-FEAST-APP.git/static/css/main.1db0c5d3.chunk.css.map",
+    "static/js/2.3e6516bf.chunk.js.LICENSE.txt": "/FAST-N-FEAST-APP.git/static/js/2.3e6516bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5837df44.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.3e6516bf.chunk.js",
+    "static/css/main.1db0c5d3.chunk.css",
+    "static/js/main.3676f609.chunk.js"
+  ]
+}
