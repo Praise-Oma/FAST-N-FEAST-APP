@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "429f72aea36ffcc983e9f64d10080f0b",
+    "revision": "97445e248042c311e8bb7e365194a7db",
     "url": "/FAST-N-FEAST-APP/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FAST-N-FEAST-APP/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "f3ecb3ed83a36e1438e0",
-    "url": "/FAST-N-FEAST-APP/static/css/main.5fc1dd10.chunk.css"
+    "revision": "bfe4ea2afd609869ee4f",
+    "url": "/FAST-N-FEAST-APP/static/css/main.be9e3fc5.chunk.css"
   },
   {
     "revision": "c2840cb3e6f4f06cc04a",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FAST-N-FEAST-APP/static/js/2.6dadfb40.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f3ecb3ed83a36e1438e0",
-    "url": "/FAST-N-FEAST-APP/static/js/main.25a8d266.chunk.js"
+    "revision": "bfe4ea2afd609869ee4f",
+    "url": "/FAST-N-FEAST-APP/static/js/main.e532bba3.chunk.js"
   },
   {
     "revision": "9211ebc59e191830117c",
